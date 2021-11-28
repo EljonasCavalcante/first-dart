@@ -1,7 +1,9 @@
+
+
 void main() {
   print("Testanto condicionais");
   
-  int altura = 195;
+  int altura = 140;
   bool altura_pequena = altura < 150;
  
 
